@@ -1,7 +1,7 @@
 
 # Statistics
 
-This is Intrinsic Stat Class that performs basic [https://www.cuemath.com/data/descriptive-statistics/](Descriptive-Statistics)
+This is Intrinsic Stat Class that performs basic [Descriptive-Statistics](https://www.cuemath.com/data/descriptive-statistics/)
 
 ## Run Locally
 
@@ -10,6 +10,7 @@ Clone the project
 ```bash
   git clone https://github.com/Theawesomedeveloper/Statistics.git
 ```
+
 
 Go to the project directory
 
@@ -26,7 +27,7 @@ node statistics.js
 
 ### **Note**: All methods in the Stat class takes values in two ways
 ### 1. 
-You can passing in an array provided you use the spread syntax
+You can pass in an array provided you use the spread syntax
 #### Example
 ```javascript
 const numbers = [1, 4, 6, 1, 8, 15, 18, 1, 5, 1]
