@@ -8,19 +8,19 @@ This is Intrinsic Stat Class that performs basic [https://www.cuemath.com/data/d
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Theawesomedeveloper/Statistics.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Statistics
 ```
 
 Run the code
 
 ```bash
-node movieapp.js
+node statistics.js
 ```
 ## Statistics Reference
 
