@@ -75,17 +75,6 @@ Stat.variance(1, 4, 6, 1, 8, 15, 18, 1, 5, 1);
 | `array` | `Int` | **Required**. Your array of numbers |
 
 
-## **Median**
-#### Example
-```javascript
-  Stat.median(...array)
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `array` | `Int` | **Required**. Your array of numbers |
-
-
 ## **Range**
 #### Example
 ```javascript
